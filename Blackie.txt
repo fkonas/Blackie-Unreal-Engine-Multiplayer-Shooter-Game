@@ -50,3 +50,33 @@ Bölüm 3: Project Creation
 41. Seamless Travel and Lobby
 42. Network Role
 43. Optional Challenge: Show the Player Name
+
+
+Bölüm 4: The Weapon
+
+44. Weapon Class
+45. Pickup Widget
+46. Variable Replication
+47. Equipping Weapons
+48. Remote Procedure Calls
+49. Equipped Animation Pose
+50. Crouching
+51. Aiming
+52. Running Blendspace
+53. Leaning and Strafing
+54. Idle and Jumps
+55. Crouch Walking
+56. Aim Walking
+57. Aim Offsets
+58. Applying Aim Offsets
+59. Pitch in Multiplayer
+60. Using our Aim Offsets
+61. FABRIK IK
+62. Turning in Place
+63. Rotate Root Bone
+64. Net Update Frequency
+65. Crouch Unequipped
+66. Rotating Running Animations
+67. Footstep and Jump Sounds
+Sınav 3: Quiz on the Weapon Section
+68. Optional Challenge: Crouch Footstep Sounds
